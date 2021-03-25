@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/1.unity
+    guid: 1540fd09df749ba84174f40f7522e8c9
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/2.unity
+    guid: b5853e3c9dfdd39b4e9dd92c9a1de3ef
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/3.unity
+    guid: e07071224b81f98e412c41ffeb319c4e
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/4.unity
+    guid: 164ca39ffb6716b44b0b8c2a25f54ffc
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/5.unity
+    guid: 407e33639ac6b68f4b0ce2aa166c57ec
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/6.unity
+    guid: 33491c45d827c4a14eafc4093998e655
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/7.unity
+    guid: 6ed14da89b831786440db29bdb2e3b14
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/8.unity
+    guid: 198406c323d4eebc4bd1e5e64f46bfc1
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/9.unity
+    guid: 794efdf86bb729b64fa2174720b61edf
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/10.unity
+    guid: 8926bdbe4a23ff8642c7f452cdf23db8
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/11.unity
+    guid: 8a8e03c6c6c3dcbf48aed5481c10d8b1
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/12.unity
+    guid: 16b38521bae9a18b4bf7ba3108c56db4
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/13.unity
+    guid: f3de5835c08a23874a7fc95833182439
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/14.unity
+    guid: 10130b8beaf0669f4599f3fb16de1af3
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/15.unity
+    guid: 807e3abe8c936a824f19e580ae17044e
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/16.unity
+    guid: 5d9107201629769440a55ee0af69ae35
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/17.unity
+    guid: 6558321006ec168d4a85c61d910cabea
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/18.unity
+    guid: d7dfdae696bb268f41c83d31e592fed9
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/19.unity
+    guid: 17ca5d5bedde55a840b37e4465b3bf5b
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/20.unity
+    guid: ba73b40a25c18f9741cfb4d75835b6ed
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/21.unity
+    guid: 8f5886ead17a62b3467c3e6b7d638f7c
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/22.unity
+    guid: c603f858ac72b9be46f9e783bc7285e8
+  - enabled: 1
+    path: Assets/Levels/Ready for testing/23.unity
+    guid: 1f6adc9e61dfd1b34e549851e0735580
+  m_configObjects: {}
